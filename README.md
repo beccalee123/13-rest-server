@@ -10,7 +10,7 @@ paired on part of lab with Hannah Ingham
 ![Build Status](https://www.travis-ci.com/beccalee123/13-rest-server.svg?branch=master)
 * [repo](https://github.com/beccalee123/13-rest-server)
 * [travis](https://www.travis-ci.com/beccalee123/13-rest-server)
-* [heroku](http://xyz.com) (when applicable)
+* [heroku](https://data-modeling.herokuapp.com/)
 
 #### Documentation
 * [swagger](http://xyz.com) - TBD
